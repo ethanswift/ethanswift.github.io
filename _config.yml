@@ -9,6 +9,9 @@ description: Blue Sky
 # Your name to show in the footer
 author: Ethan
 
+# apparently image background
+bigimg: #"url"
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
