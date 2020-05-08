@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
-title: Fight The Pandemic
+published: true
+title: Fight Pandemics
 subtitle: coronavirus days
+date: '2020-05-08'
 ---
 
 
@@ -12,4 +13,4 @@ This is a team of designers, developers and managers who come together to produc
 
 So thrilled to be part of them as a developer, aside from a really rich experience of being part of a large scale app as such and be in touch with colleagues and coworkers who are helping each other out, I'm learning how to be patient and to work together. As a iOS developer this is a life time opportunity. I'm telling you!!
 
-[check it out here](https://github.com/FightPandemics) 
+[check it out here](https://github.com/FightPandemics)
